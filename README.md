@@ -1,6 +1,6 @@
 # clippy-alert
 
-Clippy is your friend.  A very helpful friend.
+When you miss Clippy.
 
 ## Usage
 
@@ -8,7 +8,7 @@ Clippy is your friend.  A very helpful friend.
 clippy-alert "My Text Here"
 ```
 
-This will send a clippy alert.
+This will send a clippy-based alert.
 
 ## Building
 
@@ -20,9 +20,9 @@ This will send a clippy alert.
 Assumes Go 1.11 with GO111MODULE=on or Go 1.12.
 
 ## Licenses
+
 MIT License.
 
 * Clippy is probably a registered trademark for Microsoft. 
-* Comic Sans MS is probably owned by Microsoft too.
 
 This work is not affiliated with, or endorsed by Microsoft.
